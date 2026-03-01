@@ -1,0 +1,16 @@
+README.md
+
+
+
+
+
+
+WHITEPAPER/DGK_Whitepaper_EN.md
+WHITEPAPER/DGK_Whitepaper_ES.md
+SCRIPTS/create_token.sh
+SCRIPTS/mint_tokens.sh
+SCRIPTS/revoke_authorities.sh
+WEB/index.html
+WEB/style.css
+WEB/script.js
+DOCS/EXPLANATION.md

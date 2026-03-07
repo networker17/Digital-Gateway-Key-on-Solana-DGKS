@@ -1,1 +1,23 @@
+{
+  "name": "DGK-S",
+  "symbol": "DGKS",
+  "description": "DGK-S is a research- and education-focused SPL token on Solana, designed as a fixed-supply, credibility-oriented digital asset used for experimental modeling of tokenized economies, accounting theory, and critical finance.",
+  "image": "https://raw.githubusercontent.com/networker17/Digital-Gateway-Key-on-Solana-DGKS/main/7.%20WEB/dgks-logo.png",
+  "external_url": "https://github.com/networker17/Digital-Gateway-Key-on-Solana-DGKS",
+  "attributes": [
+    { "trait_type": "Network", "value": "Solana devnet" },
+    { "trait_type": "Supply", "value": "25,000,000" },
+    { "trait_type": "Decimals", "value": "9" },
+    { "trait_type": "Role", "value": "Research & Education" }
+  ],
+  "properties": {
+    "category": "token",
+    "creators": [
+      {
+        "address": "3gFTsyzttivveQgvLPdTKoinzghJMajXvDxVjKQjTjau",
+        "share": 100
+      }
+    ]
+  }
+}
 
